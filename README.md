@@ -28,6 +28,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -41,4 +42,8 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
