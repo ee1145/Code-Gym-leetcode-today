@@ -8,6 +8,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
+| [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3660-jump-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3660-jump-game-ix/) | Medium |
@@ -56,4 +57,12 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3660-jump-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3660-jump-game-ix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 <!---LeetCode Topics End-->
