@@ -7,6 +7,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0054-spiral-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -60,9 +61,11 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 <!---LeetCode Topics End-->
