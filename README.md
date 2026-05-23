@@ -16,6 +16,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
