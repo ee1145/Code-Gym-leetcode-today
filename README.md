@@ -23,6 +23,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1064-fixed-point](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1064-fixed-point/) | Easy |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
@@ -54,6 +55,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1340-jump-game-v](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Math
@@ -62,6 +64,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0007-reverse-integer](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0189-rotate-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -89,6 +92,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -119,11 +123,13 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +144,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
