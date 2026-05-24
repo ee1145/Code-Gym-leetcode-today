@@ -8,6 +8,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
@@ -34,6 +35,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -94,6 +96,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
