@@ -22,6 +22,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [1064-fixed-point](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1064-fixed-point/) | Easy |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -78,6 +79,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [1064-fixed-point](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1064-fixed-point/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
