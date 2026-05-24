@@ -1,0 +1,13 @@
+  错误点：
+
+if (nums[mid] > nums[right]) {
+
+
+example:
+
+Input: nums = [4,5,6,7,0,1,2]
+Output: 0
+Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
+
+  
+这里的条件一定是查看nums[mid] > nums[right]. 如果mid > right，说明我们在比较大的左边，答案不可能是mid，或者mid左边的内容，直接诺到右边去
