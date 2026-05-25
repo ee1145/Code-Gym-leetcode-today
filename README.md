@@ -76,6 +76,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0796-rotate-string/) | Easy |
+| [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3660-jump-game-ix/) | Medium |
 ## Matrix
@@ -178,4 +180,9 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
+| [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
