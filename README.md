@@ -35,6 +35,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3660-jump-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3660-jump-game-ix/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +192,12 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
