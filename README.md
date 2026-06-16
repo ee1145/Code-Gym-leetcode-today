@@ -19,6 +19,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0128-longest-consecutive-sequence](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
@@ -97,6 +98,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1064-fixed-point](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1064-fixed-point/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Geometry
@@ -177,6 +179,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0015-3sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
 ## Union-Find
