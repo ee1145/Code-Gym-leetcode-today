@@ -83,6 +83,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3612-process-string-with-special-operations-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0054-spiral-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3612-process-string-with-special-operations-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
