@@ -17,6 +17,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -73,6 +74,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0048-rotate-image/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1840-maximum-building-height](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
@@ -219,5 +221,6 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
