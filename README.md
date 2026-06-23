@@ -16,6 +16,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0059-spiral-matrix-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -226,6 +227,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
@@ -233,6 +235,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0853-car-fleet/) | Medium |
 <!---LeetCode Topics End-->
