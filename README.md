@@ -27,6 +27,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
+| [0739-daily-temperatures](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1064-fixed-point](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1064-fixed-point/) | Easy |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
@@ -225,4 +226,9 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0020-valid-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
