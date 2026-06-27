@@ -32,6 +32,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0704-binary-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0853-car-fleet/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1064-fixed-point](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1064-fixed-point/) | Easy |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
@@ -117,6 +118,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
 | [1064-fixed-point](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1064-fixed-point/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Geometry
