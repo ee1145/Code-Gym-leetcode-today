@@ -53,6 +53,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -95,6 +96,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
@@ -232,6 +234,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
