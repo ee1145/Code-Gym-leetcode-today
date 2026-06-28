@@ -7,6 +7,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
@@ -115,6 +116,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -163,6 +165,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
