@@ -60,6 +60,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -100,6 +101,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0796-rotate-string/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -121,6 +123,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
 | [1064-fixed-point](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1064-fixed-point/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Geometry
@@ -192,6 +195,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0155-min-stack](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0155-min-stack/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
