@@ -64,6 +64,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -106,6 +107,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0796-rotate-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -235,6 +237,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
