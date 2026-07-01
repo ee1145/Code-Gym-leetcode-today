@@ -64,6 +64,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -107,6 +108,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
@@ -228,6 +230,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0567-permutation-in-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +251,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 ## Greedy
