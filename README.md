@@ -226,6 +226,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0189-rotate-array/) | Medium |
@@ -282,4 +283,8 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
