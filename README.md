@@ -60,6 +60,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -287,4 +288,5 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0138-copy-list-with-random-pointer/) | Medium |
 <!---LeetCode Topics End-->
