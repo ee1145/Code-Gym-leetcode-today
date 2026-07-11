@@ -29,6 +29,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0704-binary-search/) | Easy |
@@ -135,6 +136,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
@@ -234,6 +236,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0125-valid-palindrome](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 ## Union-Find
@@ -304,4 +307,8 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
