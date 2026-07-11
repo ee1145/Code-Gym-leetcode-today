@@ -293,11 +293,13 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0138-copy-list-with-random-pointer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
