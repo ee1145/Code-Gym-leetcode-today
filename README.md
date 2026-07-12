@@ -224,11 +224,13 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -325,4 +327,12 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
