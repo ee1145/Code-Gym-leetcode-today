@@ -62,6 +62,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -213,6 +214,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0155-min-stack/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
@@ -298,6 +300,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,4 +314,8 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
