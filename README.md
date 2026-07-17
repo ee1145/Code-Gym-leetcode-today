@@ -152,6 +152,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -229,6 +230,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0110-balanced-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -341,6 +343,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0110-balanced-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,4 +352,9 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0110-balanced-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
