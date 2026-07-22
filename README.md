@@ -65,6 +65,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0128-longest-consecutive-sequence](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0146-lru-cache/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -111,6 +112,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0020-valid-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -128,6 +130,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Binary Search
@@ -224,6 +227,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0155-min-stack/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
