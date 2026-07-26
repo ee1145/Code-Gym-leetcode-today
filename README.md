@@ -118,6 +118,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
@@ -173,6 +174,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1340-jump-game-v](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
@@ -415,6 +417,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0046-permutations/) | Medium |
