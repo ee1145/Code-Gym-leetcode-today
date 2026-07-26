@@ -21,6 +21,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
@@ -120,6 +121,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0020-valid-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -191,6 +193,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0059-spiral-matrix-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Simulation
@@ -248,6 +251,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
@@ -422,5 +426,6 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0040-combination-sum-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
