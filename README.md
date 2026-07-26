@@ -32,6 +32,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
@@ -87,6 +88,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0853-car-fleet](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
@@ -102,6 +104,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0048-rotate-image](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0189-rotate-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1840-maximum-building-height](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
