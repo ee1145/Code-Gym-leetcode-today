@@ -16,6 +16,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0046-permutations](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -430,6 +431,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0039-combination-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
