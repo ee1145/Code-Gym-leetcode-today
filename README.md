@@ -123,6 +123,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0131-palindrome-partitioning/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
@@ -179,6 +180,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0022-generate-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0131-palindrome-partitioning/) | Medium |
 | [1340-jump-game-v](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -428,4 +430,5 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0078-subsets](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
