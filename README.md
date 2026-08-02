@@ -65,6 +65,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -118,6 +119,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
@@ -423,6 +425,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
