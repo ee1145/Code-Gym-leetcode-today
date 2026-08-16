@@ -223,6 +223,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -252,6 +253,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -306,6 +308,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -396,6 +399,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -413,6 +417,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -423,6 +428,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
