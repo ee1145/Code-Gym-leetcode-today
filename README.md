@@ -53,6 +53,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [1840-maximum-building-height](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
+| [2029-stone-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -115,6 +116,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0628-maximum-product-of-three-numbers](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1840-maximum-building-height](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
+| [2029-stone-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -238,6 +240,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [2029-stone-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +330,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -442,4 +446,20 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0131-palindrome-partitioning/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
