@@ -46,6 +46,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0853-car-fleet](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1046-last-stone-weight/) | Easy |
 | [1064-fixed-point](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1064-fixed-point/) | Easy |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
@@ -227,6 +228,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1046-last-stone-weight/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bucket Sort
