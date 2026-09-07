@@ -40,6 +40,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0704-binary-search/) | Easy |
@@ -83,6 +84,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -100,6 +102,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0853-car-fleet](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0853-car-fleet/) | Medium |
@@ -229,6 +232,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0215-kth-largest-element-in-an-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
@@ -244,6 +248,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [2029-stone-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
@@ -336,6 +341,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
