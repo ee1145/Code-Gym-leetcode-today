@@ -82,6 +82,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
@@ -232,6 +233,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0215-kth-largest-element-in-an-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -268,6 +270,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0355-design-twitter](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0981-time-based-key-value-store/) | Medium |
 ## Depth-First Search
@@ -377,6 +380,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0025-reverse-nodes-in-k-group](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0146-lru-cache/) | Medium |
+| [0355-design-twitter](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0355-design-twitter/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
