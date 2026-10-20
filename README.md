@@ -18,6 +18,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0057-insert-interval](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
