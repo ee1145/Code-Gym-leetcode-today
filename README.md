@@ -76,6 +76,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0036-valid-sudoku](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0138-copy-list-with-random-pointer/) | Medium |
@@ -135,6 +136,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0020-valid-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0131-palindrome-partitioning/) | Medium |
@@ -343,6 +345,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
