@@ -51,6 +51,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0853-car-fleet](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1046-last-stone-weight/) | Easy |
 | [1064-fixed-point](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/1064-fixed-point/) | Easy |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
@@ -215,6 +216,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Simulation
@@ -312,6 +314,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0200-number-of-islands](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0994-rotting-oranges](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
