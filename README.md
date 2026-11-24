@@ -41,6 +41,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
+| [0286-walls-and-gates](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0286-walls-and-gates/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
@@ -216,6 +217,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0079-word-search](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
+| [0286-walls-and-gates](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0286-walls-and-gates/) | Medium |
 | [0994-rotting-oranges](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -313,6 +315,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0199-binary-tree-right-side-view](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
+| [0286-walls-and-gates](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0286-walls-and-gates/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
