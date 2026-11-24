@@ -295,6 +295,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0130-surrounded-regions](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0207-course-schedule/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -314,6 +315,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0130-surrounded-regions](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0286-walls-and-gates](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0286-walls-and-gates/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -409,6 +411,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0207-course-schedule/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -507,4 +510,12 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
