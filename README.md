@@ -43,6 +43,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0286-walls-and-gates](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0286-walls-and-gates/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -109,6 +110,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0217-contains-duplicate](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -149,6 +151,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0242-valid-anagram](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0271-encode-and-decode-strings/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0332-reconstruct-itinerary/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0692-top-k-frequent-words/) | Medium |
@@ -244,6 +247,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0023-merge-k-sorted-lists](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0621-task-scheduler/) | Medium |
@@ -305,6 +309,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0261-graph-valid-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0261-graph-valid-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0332-reconstruct-itinerary/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
@@ -423,6 +428,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0207-course-schedule](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0210-course-schedule-ii/) | Medium |
 | [0261-graph-valid-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0261-graph-valid-tree/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0332-reconstruct-itinerary/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -530,4 +536,16 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0207-course-schedule/) | Medium |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0332-reconstruct-itinerary/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
