@@ -301,6 +301,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0261-graph-valid-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0261-graph-valid-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
@@ -319,6 +320,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0207-course-schedule](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
+| [0261-graph-valid-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0261-graph-valid-tree/) | Medium |
 | [0286-walls-and-gates](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0286-walls-and-gates/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
@@ -343,6 +345,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | [0128-longest-consecutive-sequence](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
+| [0261-graph-valid-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0261-graph-valid-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Data Stream
@@ -415,6 +418,7 @@ A personal code gym for Data Structures, Algorithms, and SQL. Tracking my journe
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0210-course-schedule-ii/) | Medium |
+| [0261-graph-valid-tree](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/0261-graph-valid-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ee1145/Code-Gym-leetcode-today/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
